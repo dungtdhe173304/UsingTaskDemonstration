@@ -1,0 +1,7 @@
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\UsingTaskDemonstration03\UsingTaskDemonstration03\obj\Debug\UsingTaskDemonstration03.csproj.AssemblyReference.cache
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\UsingTaskDemonstration03\UsingTaskDemonstration03\obj\Debug\UsingTaskDemonstration03.csproj.CoreCompileInputs.cache
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\UsingTaskDemonstration03\UsingTaskDemonstration03\bin\Debug\UsingTaskDemonstration03.exe.config
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\UsingTaskDemonstration03\UsingTaskDemonstration03\bin\Debug\UsingTaskDemonstration03.exe
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\UsingTaskDemonstration03\UsingTaskDemonstration03\bin\Debug\UsingTaskDemonstration03.pdb
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\UsingTaskDemonstration03\UsingTaskDemonstration03\obj\Debug\UsingTaskDemonstration03.exe
+D:\SPRING2025-ki7\prn222\code\UsingTaskDemonstration\UsingTaskDemonstration03\UsingTaskDemonstration03\obj\Debug\UsingTaskDemonstration03.pdb
